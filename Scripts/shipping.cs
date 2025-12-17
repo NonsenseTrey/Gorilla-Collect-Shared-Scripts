@@ -5,6 +5,10 @@ using Photon.Pun;
 
 public class shipping : MonoBehaviour
 {
+    [Header("Script by NonsenseTrey, give credit even if edited.")]
+    [Header("Script originally shared at https://github.com/NonsenseTrey/Gorilla-Collect-Shared-Scripts")]
+    [Header("Script originally developed for the VR game on the Horizons Store Gorilla Collect.")]
+    [Header("I didn't expect sharing these scripts so all the variables will look like gibbresh.")]
     public string tagg;                         // Tag to detect on collision
     public GameObject door;                    // Door to destroy
     public Transform spawn;                    // Fixed spawn point
@@ -90,3 +94,4 @@ public class shipping : MonoBehaviour
         }
     }
 }
+
