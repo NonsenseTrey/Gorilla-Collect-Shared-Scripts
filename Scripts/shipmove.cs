@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class shipmove : MonoBehaviour
 {
+    [Header("Script by NonsenseTrey, give credit even if edited.")]
+    [Header("Script originally shared at https://github.com/NonsenseTrey/Gorilla-Collect-Shared-Scripts")]
+    [Header("Script originally developed for the VR game on the Horizons Store Gorilla Collect.")]
+    [Header("I didn't expect sharing these scripts so all the variables will look like gibbresh.")]
     public string handtag;
     public float speed;
     public Transform ship;
@@ -32,3 +36,4 @@ public class shipmove : MonoBehaviour
         }
     }
 }
+
