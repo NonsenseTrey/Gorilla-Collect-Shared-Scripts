@@ -1,3 +1,5 @@
+WARNING: even though the MIT license say you can... I say you CANNOT distrubute my scripts through other sources (unless you edited it then its fine)
+
 So I bassically am sharing the scripts I use for my game so I'ma add what they do down here
 
 I swear to goodness if you say these scripts are yours I'm going to fart all over you.
